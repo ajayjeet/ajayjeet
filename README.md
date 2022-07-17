@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ajayjeet
-- 👀 I’m interested in cloud and devops
-- 🌱 I’m currently learning gcp and terraform
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedin
+- 👀 Interested in cloud and devops
+- 🌱 Learning GCP and various DevOps tools
+- 📫 Linkedin - https://www.linkedin.com/in/ajayjeet/
 
 <!---
 ajayjeet/ajayjeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
